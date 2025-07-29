@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing loan applications, funding trends, borrower characteristics, interest rates, and performance segmentation.
 
----
+
 
 ## Key Features
 
@@ -29,7 +29,7 @@ An interactive Power BI dashboard analyzing loan applications, funding trends, b
   • **MTD Funded**: $54M  
   • **MoM Growth**: 13%+  
 
----
+
 
 ##  Tools & Skills Used
 
@@ -38,7 +38,7 @@ An interactive Power BI dashboard analyzing loan applications, funding trends, b
 - Dashboard UX/UI Design
 - Data Source: CSV (loan-level data)
 
----
+
 
 ##  Files Included
 
@@ -69,7 +69,7 @@ An interactive Power BI dashboard analyzing loan applications, funding trends, b
 2. **Open** it in [Power BI Desktop](https://powerbi.microsoft.com/)  
 3. **Explore** insights using slicers and tabs  
 
----
+
 
 ##  Quick Insights
 
